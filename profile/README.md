@@ -1,12 +1,9 @@
-## Hi there 👋
+# We are Beastslash
+Our mission is to empower creativity and imagination through enjoyable and engaging experiences. We're an entertainment company, and we want to make you laugh, cry, and think. We want to take your wonder by surprise, but we also want you to do the same to us. ...So, we give you the tools.
 
-<!--
+### 🎮 Games
+* The Showrunners — Lights, camera...demons!? As the Director, take control of alternate versions of yourself to save the multiverse from destruction.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 🧩 Modules
+* [Dialogue Maker](https://www.roblox.com/library/4930928141/Dialogue-Maker-Beta) — Script text-based conversations between your NPCs and players in Roblox!
+* [RhythmService](https://www.roblox.com/library/6580760519/RhythmService) — Make sure your Roblox players are stepping to the beat. Or clapping to the beat. Or...eating cereal to the beat? I'm not sure how that would work, but you can sure do it!
