@@ -1,4 +1,6 @@
 # We are Beastslash
+Beastslash is a multimedia production company run by monsters. That means dragon people, moth people, shark people, you name it - they're here, guaranteed. 
+
 Our mission is to empower creativity and imagination through enjoyable and engaging experiences. We're an entertainment company, and we want to make you laugh, cry, and think. We want to take your wonder by surprise, but we also want you to do the same to us. ...So, we give you the tools.
 
 ### 🎮 Games
