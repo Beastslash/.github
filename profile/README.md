@@ -10,3 +10,6 @@ Our mission is to empower creativity and imagination through enjoyable and engag
 ## 🧩 Modules
 * [Dialogue Maker](https://github.com/Beastslash/roblox-dialogue-maker) — Script text-based conversations between your NPCs and players in Roblox!
 * [RhythmService](https://github.com/Beastslash/Roblox-RhythmService) — Make sure your Roblox players are stepping to the beat. Or clapping to the beat. Or...eating cereal to the beat? I'm not sure how that would work, but you can sure do it!
+
+## 💼 Jobs
+Wanna work with us? Check out our [job openings](https://github.com/Beastslash/jobs).
