@@ -4,8 +4,8 @@ Beastslash is a multimedia production company run by monsters. That means dragon
 Our mission is to spark imagination, fuel creativity, and encourage curiousity through engaging experiences. We're an entertainment company, and we want to make you laugh, cry, and think. We want to take your wonder by surprise, but we also want you to do the same to us. ...So, we give you the tools.
 
 ## 🎮 Games
-* [DemoDemons](https://github.com/DemoDemons) — The power's in your hands to destroy the world.
-* [The Showrunners](https://github.com/Showrunners) — Lights, camera...demons!? As the Director, take control of alternate versions of yourself to save the multiverse from destruction.
+* [Everyone Destroys the World](https://github.com/EveryoneDestroysTheWorld) — Let's have fun doing it.
+* [The Showrunners](https://github.com/Showrunners) — As the Director, take control of alternate versions of yourself to save the multiverse from destruction.
 
 ## 🧩 Modules
 * [Dialogue Maker](https://github.com/Beastslash/roblox-dialogue-maker) — Script text-based conversations between your NPCs and players in Roblox!
